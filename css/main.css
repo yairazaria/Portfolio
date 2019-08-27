@@ -1,3 +1,11 @@
+
+.desc {
+    border-style: double;
+  
+
+}
+
+
 .menu-btn {
   position: absolute;
   z-index: 3;
