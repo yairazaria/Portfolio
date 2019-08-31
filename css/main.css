@@ -32,7 +32,6 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
   visibility: hidden; }
   .menu.show {
     visibility: visible; }
@@ -174,7 +173,7 @@ main {
     grid-area: bioimage;
     margin: auto;
     border-radius: 50%;
-    width: 100%;
+    width: 80%;
     border: #eece1a 3px solid; }
   .about-info .bio {
     grid-area: bio;
