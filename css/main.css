@@ -1,9 +1,4 @@
 
-.desc {
-    border-style: double;
-  
-
-}
 
 
 .menu-btn {
@@ -246,19 +241,19 @@ main {
 @media screen and (min-width: 1171px) {
   .projects {
     grid-template-columns: repeat(4, 1fr); }
- 
-  
-  }
     
+  }
+   
 
 @media screen and (min-width: 769px) and (max-width: 1800px) {
   .projects {
     grid-template-columns: repeat(3, 1fr); } 
     .about-info .job-1 {
       width: 322%;   }
-  
+      
   }
-    
+
+
 
 @media screen and (max-width: 768px) {
   main {
